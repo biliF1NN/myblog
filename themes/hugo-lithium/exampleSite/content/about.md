@@ -1,6 +1,8 @@
 ---
-title: "About"
-date: "2016-05-05T21:48:51-07:00"
+date: "2021-11-18T21:48:51-07:00"
+title: About
 ---
 
-This is a "hello world" example website for the [**blogdown**](https://github.com/rstudio/blogdown) package. The theme was forked from [@jrutheiser/hugo-lithium-theme](https://github.com/jrutheiser/hugo-lithium-theme) and modified by [Yihui Xie](https://github.com/yihui/hugo-lithium).
+In past 5 years, car accident becomes a very serious problem to Victoria, Australia. There are many factor as cause of car crashes, such as overspeed, drunk driving and etc.
+This blog will present the Data Visualization of different factors impact on car crashes base on states. Which might be helpful for government and drivers to avoid future accidents.
+
