@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R on Assessment 3 - Data Visualization</title>
+    <link>/categories/r/</link>
+    <description>Recent content in R on Assessment 3 - Data Visualization</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 08 Nov 2021 21:13:14 -0500</lastBuildDate><atom:link href="/categories/r/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Assessment 3 - Data Visualization</title>
+      <link>/2021/11/08/assessment-3-data-visualization/</link>
+      <pubDate>Mon, 08 Nov 2021 21:13:14 -0500</pubDate>
+      
+      <guid>/2021/11/08/assessment-3-data-visualization/</guid>
+      <description> R Markdown This is an R Markdown document for assessment 3 data visualization.
+  var divElement = document.getElementById(&#39;viz1637235382366&#39;); var vizElement = divElement.getElementsByTagName(&#39;object&#39;)[0]; if ( divElement.offsetWidth  800 ) { vizElement.style.minWidth=&#39;420px&#39;;vizElement.style.maxWidth=&#39;650px&#39;;vizElement.style.width=&#39;100%&#39;;vizElement.style.minHeight=&#39;587px&#39;;vizElement.style.maxHeight=&#39;887px&#39;;vizElement.style.height=(divElement.offsetWidth*0.75)+&#39;px&#39;;} else if ( divElement.offsetWidth  500 ) { vizElement.style.minWidth=&#39;420px&#39;;vizElement.style.maxWidth=&#39;650px&#39;;vizElement.style.width=&#39;100%&#39;;vizElement.style.minHeight=&#39;587px&#39;;vizElement.style.maxHeight=&#39;887px&#39;;vizElement.style.height=(divElement.offsetWidth*0.75)+&#39;px&#39;;} else { vizElement.style.width=&#39;100%&#39;;vizElement.style.height=&#39;1327px&#39;;} var scriptElement = document.createElement(&#39;script&#39;); scriptElement.src = &#39;https://public.tableau.com/javascripts/api/viz_v1.js&#39;; vizElement.parentNode.insertBefore(scriptElement, vizElement);  </description>
+    </item>
+    
+  </channel>
+</rss>
